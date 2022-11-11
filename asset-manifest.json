@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJSPractice/static/css/main.a85094c5.css",
-    "main.js": "/ReactJSPractice/static/js/main.6a3a1fb9.js",
+    "main.js": "/ReactJSPractice/static/js/main.9c2532d9.js",
     "static/js/787.74626677.chunk.js": "/ReactJSPractice/static/js/787.74626677.chunk.js",
     "static/media/image-hero-desktop.png": "/ReactJSPractice/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/ReactJSPractice/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
@@ -19,11 +19,11 @@
     "static/media/icon-menu.svg": "/ReactJSPractice/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
     "static/media/icon-arrow-up.svg": "/ReactJSPractice/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
     "main.a85094c5.css.map": "/ReactJSPractice/static/css/main.a85094c5.css.map",
-    "main.6a3a1fb9.js.map": "/ReactJSPractice/static/js/main.6a3a1fb9.js.map",
+    "main.9c2532d9.js.map": "/ReactJSPractice/static/js/main.9c2532d9.js.map",
     "787.74626677.chunk.js.map": "/ReactJSPractice/static/js/787.74626677.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a85094c5.css",
-    "static/js/main.6a3a1fb9.js"
+    "static/js/main.9c2532d9.js"
   ]
 }
