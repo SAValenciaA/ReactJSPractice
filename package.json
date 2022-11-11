@@ -2,7 +2,7 @@
   "name": "reactjspractice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://velgrym.github.io/ReactJSPractice",
+  "homepage": "https://velgrym.github.io/ReactJSPractice",
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "@testing-library/jest-dom": "^5.16.5",
