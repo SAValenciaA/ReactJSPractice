@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/reactjspractice/static/css/main.a85094c5.css",
-    "main.js": "/reactjspractice/static/js/main.6ec55f7a.js",
-    "static/js/787.74626677.chunk.js": "/reactjspractice/static/js/787.74626677.chunk.js",
-    "static/media/image-hero-desktop.png": "/reactjspractice/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
-    "static/media/image-hero-mobile.png": "/reactjspractice/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
-    "static/media/clientDatabiz.svg": "/reactjspractice/static/media/clientDatabiz.d1e7955f847e089183caf61eb54feb51.svg",
-    "static/media/logo.svg": "/reactjspractice/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
-    "static/media/clientMaker.svg": "/reactjspractice/static/media/clientMaker.3859368b1ba7e579d814353870c9edb0.svg",
-    "static/media/clientMeet.svg": "/reactjspractice/static/media/clientMeet.2d6ffbad4108ea24377c66fe7655736e.svg",
-    "static/media/clientAudiophile.svg": "/reactjspractice/static/media/clientAudiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
-    "index.html": "/reactjspractice/index.html",
-    "static/media/icon-reminders.svg": "/reactjspractice/static/media/icon-reminders.d573f5028c4469edf76a0b57065af566.svg",
-    "static/media/icon-planning.svg": "/reactjspractice/static/media/icon-planning.7264cc64a81fa348da1d23defa87d2b5.svg",
-    "static/media/icon-calendar.svg": "/reactjspractice/static/media/icon-calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
-    "static/media/icon-todo.svg": "/reactjspractice/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
-    "static/media/icon-close-menu.svg": "/reactjspractice/static/media/icon-close-menu.3f33fd68b142340b7eb8c6887f92ee0c.svg",
-    "static/media/icon-menu.svg": "/reactjspractice/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
-    "static/media/icon-arrow-up.svg": "/reactjspractice/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
-    "main.a85094c5.css.map": "/reactjspractice/static/css/main.a85094c5.css.map",
-    "main.6ec55f7a.js.map": "/reactjspractice/static/js/main.6ec55f7a.js.map",
-    "787.74626677.chunk.js.map": "/reactjspractice/static/js/787.74626677.chunk.js.map"
+    "main.css": "/ReactJSPractice/static/css/main.a85094c5.css",
+    "main.js": "/ReactJSPractice/static/js/main.6a3a1fb9.js",
+    "static/js/787.74626677.chunk.js": "/ReactJSPractice/static/js/787.74626677.chunk.js",
+    "static/media/image-hero-desktop.png": "/ReactJSPractice/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/ReactJSPractice/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
+    "static/media/clientDatabiz.svg": "/ReactJSPractice/static/media/clientDatabiz.d1e7955f847e089183caf61eb54feb51.svg",
+    "static/media/logo.svg": "/ReactJSPractice/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
+    "static/media/clientMaker.svg": "/ReactJSPractice/static/media/clientMaker.3859368b1ba7e579d814353870c9edb0.svg",
+    "static/media/clientMeet.svg": "/ReactJSPractice/static/media/clientMeet.2d6ffbad4108ea24377c66fe7655736e.svg",
+    "static/media/clientAudiophile.svg": "/ReactJSPractice/static/media/clientAudiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
+    "index.html": "/ReactJSPractice/index.html",
+    "static/media/icon-reminders.svg": "/ReactJSPractice/static/media/icon-reminders.d573f5028c4469edf76a0b57065af566.svg",
+    "static/media/icon-planning.svg": "/ReactJSPractice/static/media/icon-planning.7264cc64a81fa348da1d23defa87d2b5.svg",
+    "static/media/icon-calendar.svg": "/ReactJSPractice/static/media/icon-calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
+    "static/media/icon-todo.svg": "/ReactJSPractice/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
+    "static/media/icon-close-menu.svg": "/ReactJSPractice/static/media/icon-close-menu.3f33fd68b142340b7eb8c6887f92ee0c.svg",
+    "static/media/icon-menu.svg": "/ReactJSPractice/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
+    "static/media/icon-arrow-up.svg": "/ReactJSPractice/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
+    "main.a85094c5.css.map": "/ReactJSPractice/static/css/main.a85094c5.css.map",
+    "main.6a3a1fb9.js.map": "/ReactJSPractice/static/js/main.6a3a1fb9.js.map",
+    "787.74626677.chunk.js.map": "/ReactJSPractice/static/js/787.74626677.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a85094c5.css",
-    "static/js/main.6ec55f7a.js"
+    "static/js/main.6a3a1fb9.js"
   ]
 }
