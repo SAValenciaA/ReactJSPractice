@@ -1,0 +1,206 @@
+@import url(https://fonts.googleapis.com/css?family=Epilogue)
+@import "../../node_modules/bootstrap/scss/bootstrap"
+
+$font-stack: Epilogue, sans-serif
+
+$background-color: hsl(0, 0%, 98%)
+$secundary-color: hsl(0, 0%, 41%)
+$text-color: hsl(0, 0%, 8%)
+
+$breakpoint-mobile: 1100px
+$breakpoint-desktop: 1590px
+
+body
+    font-family: $font-stack
+    background-color: $background-color
+p
+    font-size: 18px
+a
+    color: $secundary-color
+    text-decoration: none
+    &:hover
+        color: $text-color
+ul
+    padding-left: 0 !important
+li
+    list-style: none
+.header
+    font-size: 20px
+    padding: 20px 120px 0
+.row
+    margin: 0
+.border
+    border: solid 2px #999 !important
+    border-radius: 15px !important
+.font-weight-bold
+    font-weight: bold
+    font-size: 1.7em
+.burger-button //Here, i just delete all the decoration from boostrap
+    background: none !important
+    border: none !important
+    box-shadow: none !important
+    position: fixed
+    right: 40px
+    top: 35px
+.sidebar-header
+    margin: 20px 20px
+    width: 30px
+    *
+        position: absolute
+        right: 20px
+        top: 15px
+    button
+        padding: 0
+        width: 26px
+        height: 26px
+.nav-links
+    padding: 0
+.nav-links li
+    margin: 20px 20px
+    &:hover
+        color: $text-color
+.nav-item:not(.nav-login), .btn-log
+    background-color: $background-color
+    color: $secundary-color
+    user-select: none
+    &:hover
+        color: $text-color
+        cursor: pointer
+.nav-login
+    font-size: 20px
+.navbar
+    display: none
+.offcanvas
+    width: 65% !important
+    max-width: 380px
+    background-color: $background-color
+.btn-close
+    background-image: none
+    box-shadow: none !important
+.main
+    max-width: 600px
+    background-color: $background-color
+.main-title
+    font-size: 60px
+    color: $text-color
+.main-p
+    font-size: 25px
+    color: $secundary-color
+.main-btn
+    background-color: $text-color !important
+    border-radius: 13px
+    margin: 20px auto
+    font-size: 27px
+    max-width: 200px
+    &:hover, &:active, .btn:active
+        border-color: $text-color !important
+        background: $background-color !important
+        color: $text-color !important
+.main-businesses-featured
+    max-width: 550px
+
+.main-btn
+    padding: 10px 20px
+.dropdown
+    overflow: hidden
+    height: 30px
+    transition-duration: 0.7s 
+.dropdown-title
+    width: 115px
+    user-select: none
+    cursor: pointer
+    color: $secundary-color
+    &:hover
+        color: $text-color
+.dropdown-icon
+    margin: 0 10px
+.arrow-icon
+    margin: 15px
+
+@media (min-width: $breakpoint-mobile) 
+    .navbar
+        display: block
+        padding: 15px 0 0
+    .nav-links
+        height: 56%
+        li
+            margin: 5px 20px
+    .nav-login
+        position: fixed !important
+        right: 20px
+        width: 150px
+    .burger-button
+        display: none
+    .main-container
+        height: 90vh
+    .main
+        max-width: 900px
+        min-width: 100px
+        padding: 100px 70px
+        height: 90%
+    .main-title
+        font-size: 120px
+        text-align: left !important
+        width: 800px
+        height: 270px
+        margin: 50px 0
+    .main-p
+        font-size: 25px
+        text-align: left !important
+        height: 140px
+        width: 600px
+        max-width: 600px
+    .main-btn
+        height: 65px
+        margin: 20px auto 0 0
+        width: auto
+        margin-right: 300px
+    .main-desktop-img
+        width: auto
+        max-width: 800px
+        height: 80%
+    .main-businesses-featured
+        margin-left: 0 !important
+        min-width: 550px
+    .offcanvas-backdrop
+        display: none
+    .offcanvas
+        display: none
+    .dropdown.Company .dropdown-display
+        margin: auto !important
+        width: 140px
+        padding: 10px 25px !important
+    .dropdown-display
+        position: relative
+        z-index: 1
+        width: 180px
+        background-color: $background-color
+        box-shadow: 0px 5px 19px -5px rgba(0,0,0,0.4)
+        border-radius: 13px
+        padding: 15px !important
+        margin-left: -60px 
+        .dropdown-display-item
+            margin: 10px 0
+
+@media (min-width: $breakpoint-mobile) and (max-width: $breakpoint-desktop)
+    .nav-login
+        right: 30px !important
+        width: 150px
+        display: block
+    .main
+        background: none
+    .main::before
+        width: 800px
+        height: 95%
+        background-color: $background-color
+        opacity: 0.7
+        box-shadow: 10px 10px 191px 200px $background-color
+        content: ""
+        position: absolute
+        z-index: -1
+    .main-desktop-img
+        position: relative
+        left: 0
+        top: 0
+        z-index: -2
+    
