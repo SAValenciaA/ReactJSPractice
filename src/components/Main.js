@@ -36,7 +36,7 @@ export default function Main() {
 
   return (
     <div className='main-container d-flex'>
-      <Card className='main border-0 m-auto'>
+      <Card className='main border-0 mx-auto'>
         <Card.Img ref={mobileImg} variant="top" src={mainImg} alt="decorative image" />
         <Card.Body className='main-body p-0 mt-4 row'>
           <Card.Title className='p-0'>
